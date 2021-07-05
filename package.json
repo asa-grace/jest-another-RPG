@@ -22,5 +22,7 @@
   "directories": {
     "lib": "lib"
   },
-  "dependencies": {}
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
 }
